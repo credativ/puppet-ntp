@@ -1,3 +1,9 @@
+puppet-module-ntp (2.2.0.2) unstable; urgency=medium
+
+  * Change module path
+
+ -- Patrick Schoenfeld <patrick.schoenfeld@credativ.de>  Tue, 24 Jun 2014 10:09:35 +0200
+
 puppet-module-ntp (2.2.0.1) unstable; urgency=low
 
   * Initial release.

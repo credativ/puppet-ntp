@@ -1,5 +1,5 @@
-manifests   etc/puppet/modules/ntp
-templates   etc/puppet/modules/ntp
-spec        etc/puppet/modules/ntp
+manifests   usr/share/puppet/modules.available/ntp
+templates   usr/share/puppet/modules.available/ntp
+spec        usr/share/puppet/modules.available/ntp
 LICENSE     usr/share/doc/puppet-module-ntp
 README*     usr/share/doc/puppet-module-ntp
