@@ -1,3 +1,10 @@
+puppet-module-ntp (2.2.0.3) unstable; urgency=medium
+
+  [ Alexander Wirt ]
+  * Use sigils to fix deprecation warning
+
+ -- Alexander Wirt <alexander.wirt@credativ.de>  Wed, 14 Jun 2017 09:35:31 +0200
+
 puppet-module-ntp (2.2.0.2) unstable; urgency=medium
 
   * Change module path
